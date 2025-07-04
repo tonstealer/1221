@@ -11,3 +11,6 @@ git commit -am
 $ raw meat
 $ raw milk
 git commit -am 222
+git commit -am
+
+nI
